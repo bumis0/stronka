@@ -1,0 +1,230 @@
+body {
+  background-color: #111111;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+  font-family: Electrolize;
+  
+}
+
+
+
+.Products{
+	
+	
+	font-family: Electrolize;
+	color: white;
+	font-size: 35px;
+	margin-right:150px;
+	margin-left:350px;
+
+}
+ 
+ 
+ .logo{
+	 
+width: 70%;
+  height: auto;
+	 margin-bottom:20px;
+	 margin-left:20px;
+	 margin-top:20px;
+	 
+ }
+ 
+ 
+ .white {
+	margin-bottom:20px;
+	 margin-left:280px;
+	 margin-top:20px; 
+	 font-size: 56px;
+	  
+ }
+ 
+ .gold {
+	 
+	   margin-bottom:20px;
+	 margin-left:290px;
+	 margin-top:20px;
+  color: rgba(197,179,88,1);
+
+  font-family: Electrolize;
+  font-weight: Regular;
+  font-size: 27px;
+  
+  
+	 
+	 
+ }
+ 
+ 
+ .text{
+	 
+	 width: 314px;
+  color: rgba(255,255,255,1);
+  
+  	 margin-bottom:20px;
+	 margin-left:290px;
+	 margin-top:20px;
+  
+  font-family: Electrolize;
+  font-weight: Regular;
+  font-size: 23px;
+ 
+  text-align: left;
+	 
+	 
+ }
+ 
+ .fotka{
+	 
+	  margin-left:100px;
+	 border-top-left-radius: 21px;
+  border-top-right-radius: 21px;
+  border-bottom-left-radius: 21px;
+  border-bottom-right-radius: 21px;
+	width:50%;
+	 
+ }
+ 
+ 
+ .Gallery{
+	
+	
+	font-family: Electrolize;
+	color: white;
+	font-size: 35px;
+	margin-right:150px;
+
+}
+.aboutus{
+	
+	
+	font-family: Electrolize;
+	color: white;
+	font-size: 35px;
+	margin-right:150px;
+}
+.contact{
+	
+	
+	font-family: Electrolize;
+	color: white;
+	font-size: 35px;
+	margin-right:150px;
+
+}
+
+.partners {
+	
+	margin-bottom:20px;
+	 margin-left:70px;
+	 margin-top:20px; 
+	 font-size: 45px;
+	text-align:center;
+}
+
+
+.logos1 {
+	
+	margin-left:290px;
+	width:40%;
+	
+}
+.logos2 {
+	margin-left:200px;
+	width:40%;
+	
+}
+.logos3 {
+	margin-left:100px;
+	width:25%;
+	
+}
+.logos4 {
+	margin-left:-150px;
+	width:40%;
+	
+}
+
+.recomend {
+	
+	margin-bottom:20px;
+	 margin-left:70px;
+	 margin-top:20px; 
+	 font-size: 45px;
+	text-align:center;
+}
+
+.krimz{
+	 margin-left:290px;;
+	width:17%;border-top-left-radius: 195px;
+  border-top-right-radius: 195px;
+  border-bottom-left-radius: 195px;
+  border-bottom-right-radius: 195px;
+  margin-bottom:50px;
+  margin-bottom:60px;
+}
+.simple{
+	 margin-left:290px;
+	width:17%;border-top-left-radius: 195px;
+  border-top-right-radius: 195px;
+  border-bottom-left-radius: 195px;
+  border-bottom-right-radius: 195px;
+   margin-bottom:50px;
+   margin-right:300px;
+   
+}
+.coldzera{
+	 margin-left:290px;
+	width:17%;border-top-left-radius: 195px;
+  border-top-right-radius: 195px;
+  border-bottom-left-radius: 195px;
+  border-bottom-right-radius: 195px;
+}
+
+.gold2{
+	
+	text-align:left;
+	margin-bottom:20px;
+	 margin-left:-400px;
+	 margin-top:10px;
+  color: rgba(197,179,88,1);
+  margin-right:300px;
+
+  font-family: Electrolize;
+  font-weight: Regular;
+  font-size: 22px;
+  
+	
+}
+
+.snavious3{
+	font-size:30px;
+	margin-left:200px;
+	  color: rgba(197,179,88,1);
+	
+}
+
+.costam{
+	margin-left:300px;
+	font-size: 20px;
+}
+.costam2{
+	margin-top:30px;
+	margin-left:320px;
+	font-size: 15px;
+}
+
+.nazwa{
+	margin-top:80px;
+	margin-left:-600px;
+	
+}
+.nazwa2{
+	margin-top:130px;
+	margin-left:-620px;
+	
+}
+
+
+
